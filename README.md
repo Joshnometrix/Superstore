@@ -8,13 +8,19 @@ Our focus is to look at the sales, profit and product analysis of the market. He
 Tools used:
 
 PowerBI
+
 Query Editor
+
 Microsoft Power Point
 
 Techniques:
 
 Data Cleaning
+
 Data Modelling
+
 Data Analysis
+
 Data Visualization
-DAX measures for powerful insights
+
+DAX measures
